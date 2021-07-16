@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MobilSorgular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tip3_sonuc">Map</string>
+    <string name="title_activity_sonuc_tip3">Map</string>
+    <string name="title_activity_tip4">Map</string>
+    <string name="title_activity_tpi5">Map</string>
+</resources>
